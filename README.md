@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Hrithik18
-- 👀 I’m interested in Web Development and Android App Development
-- 🌱 I’m currently learning Full-Stack Web development
-- 💞️ I’m looking to collaborate on Web dev projects
-  ### My Tech Stack
+## Hi I'm Hrithik :fox_face:
+ ### My Tech Stack
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
