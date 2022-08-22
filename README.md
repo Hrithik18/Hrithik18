@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hrithik18
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and Android App Development
 - 🌱 I’m currently learning Full-Stack Web development
 - 💞️ I’m looking to collaborate on Web dev projects
 
