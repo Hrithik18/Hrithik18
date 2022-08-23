@@ -1,7 +1,5 @@
 ## Hi I'm Hrithik 👋
-<div align="center">
-  <img width="100%" src="https://pixabay.com/vectors/man-business-cartoon-businessman-1351393/" alt="image" />
-</div>
+
 
  ### My Tech Stack
 
